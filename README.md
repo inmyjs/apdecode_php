@@ -27,5 +27,9 @@
 
 至此，大功告成！类似/lib/admin也有admin_system.php文件，一样处理，其他地方好像没有了。
 
-此工具也适用于其他类似加密方式。
+此工具也适用于类似加密方式。
 
+### 非常感谢您的支持
+撸码不易，如果对你有所帮助，欢迎您的赞赏！微信赞赏码：
+
+![](https://raw.githubusercontent.com/wiki/inmyjs/asweb/images/20180831154543.jpg)
